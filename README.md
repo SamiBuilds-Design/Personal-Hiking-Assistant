@@ -1,4 +1,12 @@
 # 🥾 Personal Hiking Assistant
+# 🥾 Personal Hiking Assistant
+
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![n8n](https://img.shields.io/badge/n8n-Automation-ff6d5a)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-black)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+An AI-powered hiking assistant built with n8n, OpenAI, Google Sheets, Gmail, and Google Calendar.
 
 An AI-powered hiking assistant built with **n8n**, **OpenAI**, **Google Sheets**, **Gmail**, and **Google Calendar**.
 

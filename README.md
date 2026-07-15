@@ -8,6 +8,12 @@ An AI-powered hiking assistant built with **n8n**, **OpenAI**, **Google Sheets**
 
 The Personal Hiking Assistant automates hiking trip planning by combining AI with Google Workspace tools. It provides personalized recommendations, checks weather conditions, reads trail information, schedules events, and sends emails—all from a single n8n workflow.
 
+## 🏗 Workflow Overview
+
+This is the complete n8n workflow powering the Personal Hiking Assistant.
+
+![Workflow Overview](screenshots/workflow-overview.png)
+
 ---
 
 ## ✨ Features

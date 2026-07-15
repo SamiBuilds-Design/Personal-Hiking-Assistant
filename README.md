@@ -12,7 +12,7 @@ The Personal Hiking Assistant automates hiking trip planning by combining AI wit
 
 This is the complete n8n workflow powering the Personal Hiking Assistant.
 
-![Workflow Overview](screenshots/workflow-overview.png)
+![Workflow Overview](workflow-overview.png)
 
 ---
 
